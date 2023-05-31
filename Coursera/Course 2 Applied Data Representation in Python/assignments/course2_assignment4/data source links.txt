@@ -1,0 +1,5 @@
+https://github.com/tonmcg/US_County_Level_Election_Results_08-20/blob/master/2020_US_County_Level_Presidential_Results.csv
+
+https://covid19.census.gov/datasets/21843f238cbb46b08615fc53e19e0daf_1/explore?location=17.578525%2C0.315550%2C3.11
+
+https://education.nationalgeographic.org/resource/united-states-regions/
